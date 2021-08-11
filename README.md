@@ -1,2 +1,2 @@
 # Azure
-Creating a # tier Architecture Using ARM template
+Creating a 3 tier Architecture Using ARM template
